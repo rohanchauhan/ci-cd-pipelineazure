@@ -1,4 +1,4 @@
-## CI-CD MLOpsPipeline Azure
+## MLOpsPipeline Azure
 This is an adapted version of MLOps template.
 
 #### ML Ops with GitHub Actions and Azure Machine Learning
